@@ -2,6 +2,12 @@
 [![project page](https://img.shields.io/badge/Homepage-DSBench-blue)](https://liqiangjing.github.io/dsbench.github.io/)
 [![arxiv](https://img.shields.io/badge/arXiv-2409.07703-b31b1b.svg)](https://arxiv.org/abs/2409.07703)
 
+This repo provides the source code of our paper: 
+[DSBench: How Far Are Data Science Agents to Becoming Data Science Experts?](https://arxiv.org/pdf/2409.07703)
+[[PDF]](https://arxiv.org/pdf/2409.07703)[[Twitter]](https://x.com/wyu_nd/status/1835469391426973898). 
+If you discuss or use MLR-Copilot in your research, please cite us!
+
+
 ## Overview
 DSBench is a benchmark for evaluating data science agents with 
 realistic data analysis and data modeling tasks collected from 
