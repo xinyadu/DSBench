@@ -10,14 +10,10 @@
 This repo provides the source code of our paper: [DSBench: How Far are Data Science Agents from Becoming Data Science Experts?](https://arxiv.org/abs/2409.07703)
 [[PDF]](https://arxiv.org/pdf/2409.07703)[[Twitter]](https://twitter.com/wyu_nd/status/1835469391426973898) If you discuss or use DSBench in your research, please cite us!
 ```bibtex
-@misc{jing2024dsbenchfardatascience,
-      title={DSBench: How Far Are Data Science Agents to Becoming Data Science Experts?}, 
-      author={Liqiang Jing and Zhehui Huang and Xiaoyang Wang and Wenlin Yao and Wenhao Yu and Kaixin Ma and Hongming Zhang and Xinya Du and Dong Yu},
-      year={2024},
-      eprint={2409.07703},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2409.07703}, 
+@inproceedings{jingdsbench,
+  title={DSBench: How Far Are Data Science Agents from Becoming Data Science Experts?},
+  author={Jing, Liqiang and Huang, Zhehui and Wang, Xiaoyang and Yao, Wenlin and Yu, Wenhao and Ma, Kaixin and Zhang, Hongming and Du, Xinya and Yu, Dong},
+  booktitle={The Thirteenth International Conference on Learning Representations}
 }
 ```
 
